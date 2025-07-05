@@ -33,12 +33,11 @@ Using the **FACECOM dataset**, which contains 5000+ face images under real-world
 
 ### ✅ Task A – Gender Classification
 - Binary classification of face images
-- Model: `Your model name (e.g., ResNet18)`
+
 - Metrics: Accuracy, Precision, Recall, F1-score
 
 ### ✅ Task B – Face Recognition
 - Multi-class classification for identifying individuals
-- Model: `Your model name (e.g., Custom CNN / EfficientNet)`
 - Metrics: Top-1 Accuracy, Macro-averaged F1-score
 
 ---
